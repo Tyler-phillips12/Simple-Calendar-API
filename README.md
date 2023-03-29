@@ -1,5 +1,5 @@
 # Simple-Calendar-API
-A daily work day planner that schedules your tyasks and saves them in local storage
+A daily work day planner that schedules your tasks and saves them in local storage
 
 # Screenshot of webpage
 <img width="1280" alt="workdayScheduler" src="https://user-images.githubusercontent.com/123614404/228668483-fcfa23e9-f80c-4f81-97f4-88c236a190c3.png">
