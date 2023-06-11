@@ -1,16 +1,41 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
+  background-color: black;
+}
+
+p {
+  color: black;
+}
+
+header {
+  background-color: gray;
+}
+
+col-2.col-md-1.hour.text-center.py-3 {
+  background-color: red;
 }
 
 textarea {
   background: transparent;
   border: none;
   resize: none;
-  color: whitesmoke;
+  color: black;
   font-weight: 1000;
-  border-left: 4px solid black;
+  border-left: 4px solid red;
   padding: 10px;
+}
+
+button.delete-button {
+  background-color: red;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+  margin-bottom: 15px;
+  display: flex;
+  border: black 1px solid;
+  border-radius: 15px;
 }
 
 .description {
@@ -32,8 +57,7 @@ textarea {
 }
 
 .past {
-  background-color: red;
-  color: white;
+  background-color: gray;
 }
 
 .present {
